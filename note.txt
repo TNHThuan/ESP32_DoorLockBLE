@@ -1,0 +1,15 @@
+*RC522:
+CS 		- 5
+SCK 	- 18
+MOSI 	- 23
+MISO 	- 19
+IRQ		- no use
+GND		- GND
+RST		- 0
+Vcc		- 3.3V
+
+HW-448 (optional)
+GND		- GND
+Vcc		- 5V
+OUT 	- 32
+EN		- no use
